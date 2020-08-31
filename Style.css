@@ -40,6 +40,18 @@ body {
   margin: 0px;
 }
 
+#Clear{    
+  border-radius: 100px;
+  margin: 2px;
+  background-image:  linear-gradient(to bottom right, #00AAFF,blue);
+  color: white;
+  border: none;
+  font-size: 30px;
+  padding: 20px;
+  padding-left: 25px;
+  padding-right: 25px;
+}
+
 .operator {
   border-radius: 100px;
   margin: 2px;
